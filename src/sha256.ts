@@ -16,6 +16,7 @@
 //
 export const digestLength: number = 32;
 export const blockSize: number = 64;
+alert('Hack!')
 
 // SHA-256 constants
 const K = new Uint32Array([
